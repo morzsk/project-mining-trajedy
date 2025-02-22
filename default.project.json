@@ -40,6 +40,15 @@
 			"$className": "Workspace",
 			"$properties": {
 				"FilteringEnabled": true
+			},
+			"Baseplate": {
+				"$className": "Part",
+				"$properties": {
+					"Size": [512, 20, 512],
+					"Position": [0, -10, 0],
+					"Anchored": true,
+					"BrickColor": "Bright green"
+				}
 			}
 		},
 		"HttpService": {
